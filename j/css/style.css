@@ -1,0 +1,79 @@
+.head 
+{
+
+	margin:0px auto;
+	background-color: #ff80ff;
+	width: 50%;
+}
+#second 
+{  
+	padding-left: 100px;
+    
+}
+table{
+color: white;
+border-collapse: collapse;
+border-spacing:0;
+
+}
+table tr td 
+{
+	padding = 0px;
+}
+#first 
+{
+	font-size: 25px;
+	font-weight: bold;
+	padding-left: 20px;
+	white-space: 0;
+}
+.summary 
+{
+	margin:0px auto;
+	width: 50%; 
+}
+
+.skill 
+{
+
+	margin:0px auto;
+	width: 50%; 
+}
+
+
+.experience 
+{
+
+	margin:0px auto;
+	width: 50%; 
+}
+.education 
+{
+	margin:0px auto;
+	width: 50%; 
+}
+
+.language 
+{
+
+	margin:0px auto;
+	width: 50%; 
+}
+
+
+.certification 
+{
+
+	margin:0px auto;
+	width: 50%; 
+}
+#tbl2 
+{
+	color: black;
+
+}
+#exp 
+{
+	font-weight: bold;
+
+}
